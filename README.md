@@ -13,3 +13,4 @@
 
 The first objective was handled and executed by the UK team.
 
+![alt text](https://github.com/Boladay/COIL/blob/main/systemarchitecture.png)
